@@ -1,0 +1,11 @@
+.icon {
+    margin-right: 8px;
+}
+.card-img-top{
+    border-radius:30px;
+    height: 300px;
+}
+.card-body{
+font-weight: bold;
+
+}
